@@ -1,0 +1,23 @@
+
+.container {
+    max-width: 1265px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+/*.guests-container {*/
+/*    display: flex;*/
+/*    flex-direction: column;*/
+/*    flex-wrap: wrap;*/
+/*    width: 100%;*/
+/*    background-color: var(--light-blue);*/
+/*}*/
+
+.guests-container__navigation {
+    display: flex;
+    justify-content: space-around;
+    gap: 17px;
+    margin: 106px 0 117px 0;
+    position: relative;
+}
