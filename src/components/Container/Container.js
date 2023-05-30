@@ -5,7 +5,5 @@ import './Container.css';
 
 // eslint-disable-next-line react/prop-types
 export const Container = ({ children, className }) => (
-  <div className={classNames('guests-container', className)}>
-    {children}
-  </div>
+  <div className={classNames('guests-container', className)}>{children}</div>
 );
