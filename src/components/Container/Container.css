@@ -1,0 +1,36 @@
+.guests-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  width: 100%;
+  background-color: var(--light-blue);
+}
+
+.container {
+  max-width: 1265px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 15px;
+  background-color: var(--light-blue);
+}
+
+.guests-container__title {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.guests-container__heading-title {
+  font-size: 40px;
+  margin-top: 107px;
+  height: 47px;
+  text-align: center;
+}
+
+.guests-container__navigation {
+  display: flex;
+  justify-content: space-around;
+  gap: 17px;
+  margin: 106px 0 117px 0;
+  position: relative;
+}
