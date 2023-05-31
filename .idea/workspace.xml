@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3790083-79cd-4a68-ab94-27fbad7d9a8f" name="Changes" comment="lesson-32: add ESLint and Husky">
+    <list default="true" id="f3790083-79cd-4a68-ab94-27fbad7d9a8f" name="Changes" comment="lesson-32: add components">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Container/Container.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Container/Container.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Container/Container.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Container/Container.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Container/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Container/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Item/Item.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Item/Item.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Item/Item.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Item/Item.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Item/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Item/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +105,7 @@
       <workItem from="1684398072969" duration="112000" />
       <workItem from="1684410898873" duration="23945000" />
       <workItem from="1685199386338" duration="1157000" />
-      <workItem from="1685200576653" duration="8031000" />
+      <workItem from="1685200576653" duration="9946000" />
     </task>
     <task id="LOCAL-00001" summary="lesson-32: add ESLint and Husky">
       <created>1684263902735</created>
@@ -123,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684263902735</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="lesson-32: add components">
+      <created>1685477610534</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685477610534</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +140,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lesson-32: add ESLint and Husky" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson-32: add ESLint and Husky" />
+    <MESSAGE value="lesson-32: add components" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson-32: add components" />
   </component>
 </project>
